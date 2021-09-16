@@ -1,2 +1,2 @@
 # mark-8-food-finder
-Created with CodeSandbox
+Search or Select the food you want to find to eat 
