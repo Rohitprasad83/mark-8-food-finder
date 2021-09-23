@@ -47,7 +47,10 @@ export default function App() {
     <div className="App">
       <h1>Food Finder!</h1>
       <input onChange={inputHandler} />
-      <div id style={{ fontSize: "25px", fontWeight: "bold" }}>
+      <div
+        id
+        style={{ fontSize: "25px", fontWeight: "bold", margin: "1rem auto" }}
+      >
         {message}
         {meaning}
       </div>
