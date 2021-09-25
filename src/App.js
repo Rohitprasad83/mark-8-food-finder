@@ -48,13 +48,12 @@ export default function App() {
       <h1>Food Finder!</h1>
       <input onChange={inputHandler} />
       <div
-        id
         style={{ fontSize: "25px", fontWeight: "bold", margin: "1rem auto" }}
       >
         {message}
         {meaning}
       </div>
-      <div id="output" style={{}}>
+      <div id="output" style={{ margin: "4rem auto" }}>
         {foodlist.map((item) => {
           return (
             <span onClick={() => outputHandler(item)} key={item}>
