@@ -4,7 +4,7 @@ This App contains emojis of different food and a search box. Search using food e
 ---
 
 ## **Interface of the app**
-<img src="./images/Screenshot (820).png" alt="interface" width="650" height="400"/>
+<img src="./public/Screenshot (820).png" alt="interface" width="650" height="400"/>
 
 ---
 
